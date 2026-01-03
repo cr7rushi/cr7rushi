@@ -44,15 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh-Suryarao&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh-Suryarao&theme=tokyonight" height="170"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rushikesh-Suryarao&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -77,7 +69,7 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:rushikeshsuryarao07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
