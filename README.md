@@ -49,7 +49,6 @@
 ---
 
 ## 📌 Projects
-## 📌 Projects
 
 * 🤖 **[P-ID Detection System](https://github.com/cr7rushi/P-ID-Detection-System)** — Multi-agent P&ID detection system using LangGraph, Google Gemini, and OpenCV to analyze engineering diagrams
 * 🧑‍💻 **[Face Recognition System](https://github.com/cr7rushi/Face-Recognition-System)** — Real-time face detection & recognition app built with Python, OpenCV, and the face_recognition library
