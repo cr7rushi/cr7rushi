@@ -49,12 +49,16 @@
 ---
 
 ## 📌 Projects
-- 🔹 **Data Analysis & EDA Projects**
-- 🔹 **Machine Learning Prediction Models**
-- 🔹 **AI-powered Decision Support Systems**
+## 📌 Projects
 
-👉 Explore my repositories to see real-world applications of data & AI.
+* 🤖 **[P-ID Detection System](https://github.com/cr7rushi/P-ID-Detection-System)** — Multi-agent P&ID detection system using LangGraph, Google Gemini, and OpenCV to analyze engineering diagrams
+* 🧑‍💻 **[Face Recognition System](https://github.com/cr7rushi/Face-Recognition-System)** — Real-time face detection & recognition app built with Python, OpenCV, and the face_recognition library
+* 🎬 **[Movie Recommendation System](https://github.com/cr7rushi/movie-recommendation-system)** — Content-based recommender using Python, FastAPI, Streamlit, Scikit-learn, and NLP (CountVectorizer)
+* 📝 **[BlogForge-AI](https://github.com/cr7rushi/Blogforge-AI)** — AI blog generation platform using Google Gemini to create high-quality, SEO-friendly posts
+* 🚗 **[Car Price Predictor](https://github.com/cr7rushi/Car_Price_detector)** — ML model estimating used car prices from brand, year, fuel type, mileage & more
+* 📧 **[Email Spam Detector](https://github.com/cr7rushi/Email_spam_detector)** — Spam classification model using NLP preprocessing and ML algorithms
 
+👉 Check out my [repositories](https://github.com/cr7rushi?tab=repositories) for more, and feel free to explore the code or drop feedback via issues.
 ---
 
 ## 🌱 Currently Learning
